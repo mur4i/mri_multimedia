@@ -9,3 +9,7 @@ O script foi convertido por mim (discord: .mur4i) de qbcore para vRP.
 - Reprodução de música sincronizada do YouTube, permitindo que os usuários ouçam músicas enquanto dirigem.
 - Sistema de câmera de estacionamento para facilitar o estacionamento.
 - Sistema de quilometragem que rastreia as milhas do veículo (possível desativar a partir da configuração).
+
+## Preview
+![Preview 1](preview1.png)
+![Preview 2](preview2.png)
