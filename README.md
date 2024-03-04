@@ -35,3 +35,7 @@ Config.IgnoredPlates = {
     "ADMIN",
     "ADMINCAR"
 }
+
+## Créditos
+
+Este projeto foi baseado no script original "Advanced Car Control v2 - Mileage System" criado por [AutoMotoNoob](https://forum.cfx.re/t/advanced-car-control-v2-mileage-system/5128322). Certifique-se de conferir o trabalho deles!
