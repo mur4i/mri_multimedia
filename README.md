@@ -13,3 +13,25 @@ O script foi convertido por mim (discord: .mur4i) de qbcore para vRP.
 ## Preview
 ![Preview 1](preview1.png)
 ![Preview 2](preview2.png)
+
+## Configurações externas
+
+```lua
+Config = {}
+
+Config.MenuKey = 'M'
+
+-- ATIVAR SISTEMA DE QUILOMETRAGEM
+Config.EnableMileageSystem = false
+
+Config.OptimizationMode = "fast" -- rápido, médio, baixo, ultrabaixo 
+
+-- Em quantos milissegundos o sistema de quilometragem deve ser executado. Diminuir este valor aumentará o aumento da quilometragem em cada carro
+-- Quanto maior o número, mais otimizado .mur4i
+Config.MileageUpdateInterval = 1500
+
+-- O script nunca contará a quilometragem de carros com essas placas
+Config.IgnoredPlates = {
+    "ADMIN",
+    "ADMINCAR"
+}
