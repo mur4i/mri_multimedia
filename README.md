@@ -10,6 +10,9 @@ Discord da comunidade: [QBCore Brasil](https://discord.gg/uEfGD4mmVh)
 
 Meu discord pessoal: [.mur4i](https://discordapp.com/users/600843526825181219)
 
+## Atalhos
+- Pressione M dentro do carro para abrir o painel (por padrão)
+
 ## Funcionalidades
 - Controle das partes do veículo (portas, capô, porta-malas).
 - Controle do motor, luzes e outros sistemas do veículo.
