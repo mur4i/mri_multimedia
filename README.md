@@ -6,6 +6,7 @@ O script foi convertido por mim (discord: .mur4i) de QBCore para vRP.
 ## QBCore Brasil
 Este script é um oferecimento da comunidade QBCore Brasil. Ele não é oficial e, portanto, pode ter erros ou falhas.
 Discord: https://discord.gg/uEfGD4mmVh
+
 Meu discord pessoal: [.mur4i](https://discordapp.com/users/600843526825181219)
 
 ## Funcionalidades
