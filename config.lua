@@ -8,11 +8,11 @@ Config.EnableMileageSystem = false
 
 Config.OptimizationMode = "fast" -- fast, medium, low, ultralow 
 
--- In how many milliseconds should the mileage system be run // Decrementing this value will increase the rise of mileage in every car
+-- Em quantos milissegundos o sistema de quilometragem deve ser executado. Diminuir este valor aumentará o aumento da quilometragem em cada carro
 -- Quanto maior o número mais otimizado .mur4i
 Config.MileageUpdateInterval = 1500
 
--- Script will never count the mileage of cars with these plates
+-- O script nunca contará a quilometragem de carros com essas placas
 Config.IgnoredPlates = {
     "ADMIN",
     "ADMINCAR"
