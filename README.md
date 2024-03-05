@@ -40,7 +40,7 @@ Config.MenuKey = 'M'
 -- ATIVAR SISTEMA DE QUILOMETRAGEM
 Config.EnableMileageSystem = false
 
-Config.OptimizationMode = "fast" -- rápido, médio, baixo, ultrabaixo 
+Config.OptimizationMode = "fast" -- fast, medium, low, ultralow 
 
 -- Em quantos milissegundos o sistema de quilometragem deve ser executado. Diminuir este valor aumentará o aumento da quilometragem em cada carro
 -- Quanto maior o número, mais otimizado .mur4i
