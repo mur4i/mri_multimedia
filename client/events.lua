@@ -61,3 +61,17 @@ AddEventHandler("2na_carcontrol:Client:ShowParkCam", function()
     TriggerEvent("2na_carcontrol:Client:HideMenu")
 end)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+-- GETPLAYERS
+-----------------------------------------------------------------------------------------------------------------------------------------
+function GetPlayers()
+    local players = {}
+
+    for i = 0, 256 do
+        if NetworkIsPlayerActive(i) then
+            table.insert(players, i)
+        end
+    end
+
+    return players
+end

@@ -35,6 +35,7 @@ Config.IgnoredPlates = {
     "ADMIN",
     "ADMINCAR"
 }
+```
 
 ## Créditos
 

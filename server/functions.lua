@@ -21,19 +21,18 @@ end
 
 function GetPlayersInCar(vehicle)
     local peds = {}
+    local players = {}
 
     for i = -1, 6, 1 do 
         local ped = GetPedInVehicleSeat(GetVehiclePedIsIn(GetPlayerPed(source), false), i)
-
         if ped ~= 0 then 
             table.insert(peds, ped)
         end
     end
 
-    local players = {}
     for _, playerId in ipairs(GetPlayers()) do 
-        for ped in ipairs(peds) do
-            if tostring(ped) == tostring(playerId) then 
+        for _, ped in ipairs(peds) do
+            if GetPlayerPed(playerId) == ped then 
                 table.insert(players, playerId)
                 break
             end
