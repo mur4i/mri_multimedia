@@ -1,7 +1,7 @@
 # mri_multimedia - Multimídia para Carros vRP
 
 Este projeto é uma multimídia para carros que permite controle de várias funcionalidades do veículo, integrado com a framework vRP.
-O script foi convertido por mim (discord: .mur4i) de qbcore para vRP.
+O script foi convertido por mim (discord: .mur4i) de QBCore para vRP.
 
 ## QBCore Brasil
 Este script é um oferecimento da comunidade QBCore Brasil. Ele não é oficial e, portanto, pode ter erros ou falhas.
