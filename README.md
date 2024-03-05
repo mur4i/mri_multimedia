@@ -10,6 +10,11 @@ Discord da comunidade: [QBCore Brasil](https://discord.gg/uEfGD4mmVh)
 
 Meu discord pessoal: [.mur4i](https://discordapp.com/users/600843526825181219)
 
+## Dependências
+Necessário possuir os seguintes scripts abaixo para funcionar o script:
+- [xsound](https://github.com/Xogy/xsound)
+- 2na_core (dependência removida)
+
 ## Atalhos
 - Pressione M dentro do carro para abrir o painel (por padrão)
 
