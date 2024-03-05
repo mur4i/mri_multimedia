@@ -3,6 +3,10 @@
 Este projeto é uma multimídia para carros que permite controle de várias funcionalidades do veículo, integrado com a framework vRP.
 O script foi convertido por mim (discord: .mur4i) de qbcore para vRP.
 
+## QBCore Brasil
+Este script é um oferecimento da comunidade QBCore Brasil. Ele não é oficial e, portanto, pode ter erros ou falhas.
+Discord: https://discord.gg/uEfGD4mmVh
+
 ## Funcionalidades
 - Controle das partes do veículo (portas, capô, porta-malas).
 - Controle do motor, luzes e outros sistemas do veículo.
@@ -39,4 +43,4 @@ Config.IgnoredPlates = {
 
 ## Créditos
 
-Este projeto foi baseado no script original "Advanced Car Control v2 - Mileage System" criado por [AutoMotoNoob](https://forum.cfx.re/t/advanced-car-control-v2-mileage-system/5128322). Certifique-se de conferir o trabalho deles!
+Este projeto foi baseado no script original "Advanced Car Control v2 - Mileage System" criado por [0Resmondev](https://forum.cfx.re/t/advanced-car-control-v2-mileage-system/5128322). Certifique-se de conferir o trabalho deles!
