@@ -11,8 +11,8 @@ Discord da comunidade: [QBCore Brasil](https://discord.gg/uEfGD4mmVh)
 Meu discord pessoal: [.mur4i](https://discordapp.com/users/600843526825181219)
 
 ## Video Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVGXcI_zM8w" frameborder="0" allowfullscreen></iframe>
-
+[Clique para assistir](https://youtu.be/wVGXcI_zM8w)
+[![Vídeo Preview](thumb.png)](https://youtu.be/wVGXcI_zM8w)
 
 ## Dependências
 Necessário possuir os seguintes scripts abaixo para funcionar o script:
