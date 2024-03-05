@@ -16,7 +16,9 @@ Necessário possuir os seguintes scripts abaixo para funcionar o script:
 - 2na_core (dependência removida)
 
 ## Atalhos
-- Pressione M dentro do carro para abrir o painel (por padrão)
+- Pressione <div style="border: 1px solid black; width: 30px; height: 30px; text-align: center; line-height: 30px; font-weight: bold;">
+  M
+</div> dentro do carro para abrir o painel (por padrão)
 
 ## Funcionalidades
 - Controle das partes do veículo (portas, capô, porta-malas).
