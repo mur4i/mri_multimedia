@@ -3,6 +3,8 @@
 Este projeto é uma multimídia para carros que permite controle de várias funcionalidades do veículo, integrado com a framework vRP.
 O script foi convertido por mim (discord: .mur4i) de QBCore para vRP.
 
+Sinta-se à vontade para fazer um fork e mandar um pull request caso faça alguma alteração interessante!
+
 ## Disclaimer
 mri_multimedia é um script 100% OPEN SOURCE, sinta-se a vontade para fazer um fork e trazer atualizações para o script caso encontre algum erro. Caso seja necessário entre em contato comigo que estaremos ajudando muito mais pessoas se esse script estiver perfeito!
 
